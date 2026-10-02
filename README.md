@@ -2,6 +2,8 @@
 
 りんか・さくら・ママの3人で遊べる、撮影向けの「何と何が合体した？」クイズです。音は鳴りません。
 
+**[ブラウザで今すぐ遊ぶ](https://rinsakuchannel.github.io/nanikore-ai-quiz-show/)**
+
 ## 遊び方
 
 このリポジトリをダウンロードし、`dist/index.html` を Chrome または Edge で開いてください。インターネット接続やインストールは不要です。詳しい進行方法は [`dist/遊び方.txt`](dist/遊び方.txt) にあります。
